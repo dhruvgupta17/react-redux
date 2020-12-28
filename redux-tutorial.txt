@@ -1,0 +1,7 @@
+----------------react-redux--------------
+1. create type
+2. create action
+3. create reducer
+4. create store
+5. subscribe
+6. dispatch
